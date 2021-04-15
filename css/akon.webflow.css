@@ -4010,20 +4010,12 @@ blockquote {
   display: flex;
 }
 
-.text-field-2 {
-  display: none;
-}
-
 .field-label-2 {
-  display: none;
-}
-
-.text-field-3 {
-  display: none;
+  text-align: left;
 }
 
 .field-label-3 {
-  display: none;
+  text-align: left;
 }
 
 .submit-button-2 {
