@@ -4042,6 +4042,7 @@ blockquote {
 }
 
 .button-3 {
+  display: none;
   padding: 20px 40px;
   background-color: #951333;
   font-size: 18px;
